@@ -13,6 +13,6 @@ int main()
 	printf("\n");
 	
 	char* content;
-	fgets(content, file->blksize, file);
+	//fgets(content, file->blksize, file);
 	printf("%s\n", content);
 }
