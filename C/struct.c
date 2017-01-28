@@ -16,5 +16,5 @@ void printFile(File file)
 
 int main()
 {
-	printFile(
+
 }
